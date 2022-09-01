@@ -1,1 +1,1 @@
-Sitemap: https://rrc-llc.github.io/recyclers-union/sitemap.xml
+Sitemap: https://blog.recyclereality.net/sitemap.xml
