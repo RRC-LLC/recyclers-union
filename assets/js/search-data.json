@@ -5,16 +5,16 @@
   
 
   
-      "page1": {
+
+  
+      "page2": {
           "title": "♻︎ Home",
-          "content": ".",
-          "url": "https://blog.recyclereality.net/link-of-eternal-return/",
-          "relUrl": "/link-of-eternal-return/",
+          "content": "",
+          "url": "https://blog.recyclereality.net/_pages/return.html",
+          "relUrl": "/_pages/return.html",
           "date": ""
       }
       
-  
-
   
 
   
