@@ -482,4 +482,6 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
+.page-content { -webkit-font-smoothing: antialiased !important; text-rendering: optimizeLegibility !important; font-family: "Helvetica Neue", "Helvetica", sans-serif !important; }
+
 /*# sourceMappingURL=style.css.map */
